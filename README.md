@@ -1,1 +1,2 @@
 # Mouseover-Effect
+This repository contains JavaScript code for creating a mouseover effect on elements with a class name of "elem". When the mouse enters an element, it changes the opacity of the element's child node (specifically, the fourth child node) to 1, creating a fade-in effect. When the mouse leaves the element, the opacity is set back to 0. Additionally, as the mouse moves within the element, the child node's position follows the mouse cursor.
